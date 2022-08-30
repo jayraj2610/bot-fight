@@ -58,10 +58,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "MaterialAnalyzer",
-			"Enabled": false
-		},
-		{
 			"Name": "AudioCapture",
 			"Enabled": false
 		},
@@ -182,6 +178,26 @@
 				"Win64",
 				"Linux"
 			]
+		},
+		{
+			"Name": "ContentBrowserFileDataSource",
+			"Enabled": true
+		},
+		{
+			"Name": "FacialAnimation",
+			"Enabled": false
+		},
+		{
+			"Name": "XCodeSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "RiderSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "Paper2D",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
